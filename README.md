@@ -14,9 +14,16 @@ BC Stats is an organization within the Service BC division of the Ministry of Te
 Repositories
 ----------
 
+#### [distance calculator](https://github.com/bcgov/distance_calculator)
+
+-   _description_ To be added.
+-   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="http://bcdevexchange.org/badge/3.svg" style="max-width:100%;"/></a>
+
+
+
 #### [WES_engagement_states (Work Environment Survey - Engagement States)](https://github.com/bcgov/WES_engagement_states)
 
--   _description_.
+-   _description_ To be added.
 -   More information about the B.C. Public Service [Work Environment Survey](http://www.bcstats.gov.bc.ca/StatisticsBySubject/EmployeeResearch/WES.aspx)
 -   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="http://bcdevexchange.org/badge/3.svg" style="max-width:100%;"/></a>
 
