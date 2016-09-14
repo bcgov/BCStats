@@ -14,6 +14,10 @@ BC Stats is an organization within the Service BC division of the Ministry of Te
 Repositories
 ----------
 
+#### [data-driven-decision-making](https://github.com/bcgov/data-driven-decision-making)
+
+- a collection of resources and links to support the process of creating and analyzing data to support decisions in the public sector.
+
 #### [distance-calculator](https://github.com/bcgov/distance-calculator)
 
 -   _description_ To be added.
