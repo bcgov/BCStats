@@ -14,6 +14,10 @@ BC Stats is an organization within the Service BC division of the Ministry of Te
 Repositories
 ----------
 
+#### [CANSIM-data-viewer](https://github.com/bcgov/CANSIM-data-viewer)
+
+- R tools to retrieve, tabulate and visualize data from Statistics Canada's CANSIM database.
+
 #### [data-driven-decision-making](https://github.com/bcgov/data-driven-decision-making)
 
 - a collection of resources and links to support the process of creating and analyzing data to support decisions in the public sector.
