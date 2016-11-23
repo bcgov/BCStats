@@ -17,10 +17,14 @@ Repositories
 #### [CANSIM-data-viewer](https://github.com/bcgov/CANSIM-data-viewer)
 
 - R tools to retrieve, tabulate and visualize data from Statistics Canada's CANSIM database.
+-   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="http://bcdevexchange.org/badge/3.svg" style="max-width:100%;"/></a>
+
 
 #### [data-driven-decision-making](https://github.com/bcgov/data-driven-decision-making)
 
 - a collection of resources and links to support the process of creating and analyzing data to support decisions in the public sector.
+-   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="http://bcdevexchange.org/badge/3.svg" style="max-width:100%;"/></a>
+
 
 #### [distance-calculator](https://github.com/bcgov/distance-calculator)
 
