@@ -18,31 +18,31 @@ Repositories
 
 - R tools to retrieve, tabulate and visualize data associated with demographic trends in British Columbia (including comparisons with with jurisdictions).
 - includes data from Statistics Canada's CANSIM database.
--   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="http://bcdevexchange.org/badge/3.svg" style="max-width:100%;"/></a>
+-   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="https://assets.bcdevexchange.org/images/badges/delivery.svg" style="max-width:100%;"/></a>
 
 
 #### [CANSIM-data-viewer](https://github.com/bcgov/CANSIM-data-viewer)
 
 - R tools to retrieve, tabulate and visualize data from Statistics Canada's CANSIM database.
--   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="http://bcdevexchange.org/badge/3.svg" style="max-width:100%;"/></a>
+-   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="https://assets.bcdevexchange.org/images/badges/delivery.svg" style="max-width:100%;"/></a>
 
 
 #### [data-driven-decision-making](https://github.com/bcgov/data-driven-decision-making)
 
 - a collection of resources and links to support the process of creating and analyzing data to support decisions in the public sector.
--   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="http://bcdevexchange.org/badge/3.svg" style="max-width:100%;"/></a>
+-   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="https://assets.bcdevexchange.org/images/badges/delivery.svg" style="max-width:100%;"/></a>
 
 
 #### [distance-calculator](https://github.com/bcgov/distance-calculator)
 
 -   _description_ To be added.
--   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="http://bcdevexchange.org/badge/3.svg" style="max-width:100%;"/></a>
+-   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="https://assets.bcdevexchange.org/images/badges/delivery.svg" style="max-width:100%;"/></a>
 
 
 #### [housing-data-visualization-project](https://github.com/bcgov/housing-data-visualization-project)
 
 -   _description_ Repository for the Housing Data: BCIC Innovation Exchange™ Public Service Challenge for BC Stats.
--   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="http://bcdevexchange.org/badge/3.svg" style="max-width:100%;"/></a>
+-   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="https://assets.bcdevexchange.org/images/badges/delivery.svg" style="max-width:100%;"/></a>
 
 
 ---
@@ -54,13 +54,13 @@ Repositories
 
 -   _description_ To be added.
 -   More information about the B.C. Public Service [Work Environment Survey](http://www.bcstats.gov.bc.ca/StatisticsBySubject/EmployeeResearch/WES.aspx)
--   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="http://bcdevexchange.org/badge/3.svg" style="max-width:100%;"/></a>
+-   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="https://assets.bcdevexchange.org/images/badges/delivery.svg" style="max-width:100%;"/></a>
 
 #### [WES-engagement-states (Work Environment Survey - Engagement States)](https://github.com/bcgov/WES-engagement-states)
 
 -   _description_ To be added.
 -   More information about the B.C. Public Service [Work Environment Survey](http://www.bcstats.gov.bc.ca/StatisticsBySubject/EmployeeResearch/WES.aspx)
--   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="http://bcdevexchange.org/badge/3.svg" style="max-width:100%;"/></a>
+-   <a href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"> <img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." src="https://camo.githubusercontent.com/2058739d64533475b124c5ce3d19a3865562fd29/687474703a2f2f626364657665786368616e67652e6f72672f62616467652f332e737667" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." data-canonical-src="https://assets.bcdevexchange.org/images/badges/delivery.svg" style="max-width:100%;"/></a>
 
 
 #### [WES-NLP-tool](https://github.com/bcgov/WES-NLP-tool)
