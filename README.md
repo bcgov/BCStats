@@ -6,7 +6,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 -->
 
 
-<a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="https://assets.bcdevexchange.org/images/badges/delivery.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a>
+![img](https://img.shields.io/badge/Lifecycle-Dormant-ff7f2a)
 
 
 BC Stats - Repository List
